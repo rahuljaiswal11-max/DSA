@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-09-13",
+  "totalSolved": 4,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-09-14",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,16 @@
   "syncedProblems": {
     "LeetCode_Binary_Search": true,
     "LeetCode_Find_Peak_Element": true,
-    "LeetCode_Search_Insert_Position": true
+    "LeetCode_Search_Insert_Position": true,
+    "LeetCode_Largest_Number_At_Least_Twice_of_Others": true
   },
   "activityHistory": {
     "2026-09-11": 1,
     "2026-09-12": 1,
-    "2026-09-13": 1
+    "2026-09-13": 1,
+    "2026-09-14": 1
   },
   "todayProblems": [
-    "Search Insert Position"
+    "Largest Number At Least Twice of Others"
   ]
 }
